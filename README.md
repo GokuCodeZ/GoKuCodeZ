@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Mohammad Hassan</h1>
 <h3 align="center">Python developer <3</h3>
-<img alt=coding align="left" width=400 src="https://media.tenor.com/Mtt_u2FtYBkAAAAC/coffee-code.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokucodez&label=Profile%20views&color=0e75b6&style=flat" alt="gokucodez" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gokucodez" alt="gokucodez" /></a> </p>
