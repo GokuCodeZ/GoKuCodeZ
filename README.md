@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me? **discord.gg/codez**
+- 📫 How to reach me? **discord.gg/rponfire**
 
 - 💬 Fun Fact, **I think I'm funny.**
 
